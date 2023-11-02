@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/supriya-avula/product-list-app/static/css/main.fbfd24fc.css",
+    "main.js": "/supriya-avula/product-list-app/static/js/main.6ce5606d.js",
+    "static/js/787.9b2cf16f.chunk.js": "/supriya-avula/product-list-app/static/js/787.9b2cf16f.chunk.js",
+    "index.html": "/supriya-avula/product-list-app/index.html",
+    "main.fbfd24fc.css.map": "/supriya-avula/product-list-app/static/css/main.fbfd24fc.css.map",
+    "main.6ce5606d.js.map": "/supriya-avula/product-list-app/static/js/main.6ce5606d.js.map",
+    "787.9b2cf16f.chunk.js.map": "/supriya-avula/product-list-app/static/js/787.9b2cf16f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbfd24fc.css",
+    "static/js/main.6ce5606d.js"
+  ]
+}
